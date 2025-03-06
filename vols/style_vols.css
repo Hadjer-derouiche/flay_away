@@ -17,6 +17,9 @@ header {
 header a {
     text-decoration: none;
 }
+header b {
+    margin-top: 10px;
+}
 
  /* header a {
     color: #DACDB7;
